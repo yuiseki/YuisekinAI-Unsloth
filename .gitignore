@@ -1,5 +1,5 @@
 grpo_trainer_lora_model
-outputs
+outputs*
 unsloth_compiled_cache
 grpo_saved_lora
 .env
